@@ -2,8 +2,6 @@
 
 Software developer based in Brussels, Belgium. I build thoughtful software with product-minded teams. I care about the details, the people using them, and the people building them.
 
-Software is my profession. Photography trains my eye. Flying keeps the ego in check.
-
 ## Where I've worked
 
 - **[Atlassian](https://www.atlassian.com)** · Aug 2025 – Oct 2026
